@@ -36,6 +36,11 @@ body {
     margin-top: 0;
     
    
-  }
+  }#band {
+    list-style-type: square;
+    padding: 0;
+    margin: 0;
+    display: block;/* Ensures the list takes the available space and aligns with the top and bottom edges */
+}
   
   
